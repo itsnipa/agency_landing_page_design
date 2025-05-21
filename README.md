@@ -43,6 +43,7 @@ This repository contains:
 Downlaod necessary files and use the shared figma link to design and customise your site
 - Figma file share link: https://www.figma.com/design/skXLxar9vQDQLmw4fZA4i4/Agency-Landing-Page?node-id=0-1&p=f
 - Newsletter code link: https://drive.google.com/file/d/1R-PA5D98BYbL0o9CwTJKl6dMJbVVrFEB/view
+- photos of the page: https://drive.google.com/file/d/1SiuX85D9YfnsBQqRoKTRgit5dmdEBUy5/view?usp=sharing
 
 ## 💡 Features
 
